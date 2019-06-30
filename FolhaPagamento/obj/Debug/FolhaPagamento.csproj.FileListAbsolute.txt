@@ -1,0 +1,10 @@
+D:\Code\Livro Dev Desktop\Cap3\FolhaPagamento\FolhaPagamento\bin\Debug\FolhaPagamento.exe.config
+D:\Code\Livro Dev Desktop\Cap3\FolhaPagamento\FolhaPagamento\bin\Debug\FolhaPagamento.exe
+D:\Code\Livro Dev Desktop\Cap3\FolhaPagamento\FolhaPagamento\bin\Debug\FolhaPagamento.pdb
+D:\Code\Livro Dev Desktop\Cap3\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.csprojAssemblyReference.cache
+D:\Code\Livro Dev Desktop\Cap3\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.Form1.resources
+D:\Code\Livro Dev Desktop\Cap3\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.Properties.Resources.resources
+D:\Code\Livro Dev Desktop\Cap3\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.csproj.GenerateResource.cache
+D:\Code\Livro Dev Desktop\Cap3\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.csproj.CoreCompileInputs.cache
+D:\Code\Livro Dev Desktop\Cap3\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.exe
+D:\Code\Livro Dev Desktop\Cap3\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.pdb
